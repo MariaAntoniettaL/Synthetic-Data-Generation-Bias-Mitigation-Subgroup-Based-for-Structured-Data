@@ -1,1 +1,1 @@
-# Synthetic-Data-Generation-Bias-Mitigation-subgroup-based-for-structured-data
+# Synthetic-Data-Generation-Bias-Mitigation-Subgroup-Based-for-Structured-Data
